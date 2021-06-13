@@ -1,4 +1,4 @@
-To run the project, you should follow these steps below.
+To run the project, you should follow the steps below.
 1. Download the data from https://ribfrac.grand-challenge.org/.
 2. Then put the data in the directory "./Homework_rawdata" as "./ct" and "./label" respectively.
 3. You can run the preprocess.py . And the fixed data will be stored in "./Homework_fixed_data".
